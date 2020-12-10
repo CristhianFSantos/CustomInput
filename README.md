@@ -1,6 +1,6 @@
 <h1 align ="center">Custom Input</h1>
 <h1 align ="center">
-<img src="project.gif" height="500" alt="GIF">
+<img src="https://raw.githubusercontent.com/CristhianFSantos/CustomInput/master/Project.gif" height="500" alt="GIF">
 </h1>
 
 ## 📖 Sobre o projeto
